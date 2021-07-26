@@ -28,6 +28,6 @@
     "link"
   ],
   "scripts": {
-    "postinstall": "tsc --outDir ./build"
+    "postinstall": "build"
   }
 }
