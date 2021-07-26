@@ -84,5 +84,6 @@
       "none": "7 kB"
     }
   },
-  "version": "6.0.1"
+  "version": "6.0.1",
+  "name": "react-router-packages"
 }
