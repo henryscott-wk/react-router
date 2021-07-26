@@ -24,5 +24,8 @@
     "routing",
     "history",
     "link"
-  ]
+  ],
+  "scripts": {
+    "postinstall": "tsc --outDir ./build"
+  }
 }
